@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # graphify
 
 Turn any folder (code, docs, papers, images, videos) into a persistent, queryable knowledge graph with god nodes, community detection, and query, path, and explain tools.
